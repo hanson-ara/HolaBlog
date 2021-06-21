@@ -1,3 +1,2 @@
-# titulo
-
-esta es la documentación de mi app
+# HolaBlog
+Primer blog para Git
